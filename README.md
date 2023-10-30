@@ -49,4 +49,12 @@ curves hierarchy.:
 ---
 
 ## Results:
+
+- [curve.h](https://github.com/Elelion/Cad_exchanger/blob/main/test_task/Curve.h)
+- [circle.h](https://github.com/Elelion/Cad_exchanger/blob/main/test_task/Circle.h)
+- [ellipse.h](https://github.com/Elelion/Cad_exchanger/blob/main/test_task/Ellipse.h)
+- [helix.h](https://github.com/Elelion/Cad_exchanger/blob/main/test_task/Helix.h)
+- [main.cpp](https://github.com/Elelion/Cad_exchanger/blob/main/test_task/main.cpp)
+
+
 ![img_1.png](test_task/img_1.png)
