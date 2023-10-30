@@ -1,0 +1,9 @@
+﻿  Circle.cpp
+  Curve.cpp
+  Ellipse.cpp
+  Helix.cpp
+  main.cpp
+Z:\_test_task_cpp\test_task\main.cpp(57,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  test_task.vcxproj -> Z:\_test_task_cpp\test_task\ARM64\Release\test_task.exe

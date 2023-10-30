@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Applications/MAMP/htdocs/_test_task_cpp Select CMakeLists.txt

@@ -1,0 +1,1 @@
+Z:\_test_task_cpp\test_task\ARM64\Debug\test_task.exe
