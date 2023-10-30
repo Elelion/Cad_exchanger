@@ -44,9 +44,9 @@ curves hierarchy.:
   parametric space to make a round, i.e. any point on helix satisfies the condition C(t + 2*PI) = C(t) +
   {0, 0, step}.
 
-![img.png](img.png)
+![img.png](test_task/img.png)
 
 ---
 
 ## Results:
-![img_1.png](img_1.png)
+![img_1.png](test_task/img_1.png)
